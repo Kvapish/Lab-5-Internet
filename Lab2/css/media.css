@@ -16,6 +16,24 @@
         padding-top: 10px;
         margin-top: -10px;
     }
+    .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame1 {
+        border: 2px rgb(120, 120, 120) solid;
+        width: 450px;
+        margin-bottom: 10px;
+        height: 260px;
+    }
+    .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame2 {
+        border: 2px rgb(120, 120, 120) solid;
+        width: 450px;
+        margin-bottom: 10px;
+        height: 260px;
+    }
+    .testimonials .testimonials_fon .overlay1 .wrapper .line {
+        padding-top: 40px;
+        display: flex;
+        width: 250px;
+        margin-left:350px;
+    }
 }
 @media (max-width:900px){
     .page-content .block .wrapper .text .element {
