@@ -434,4 +434,35 @@
         background-color: rgb(76, 168, 76);
         text-align: center;
     }
+    .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .contact_us>li>p>a {
+        display: none;
+    }
+    .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .contact_us>li {
+        display: none;
+    }
+    .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .company>li {
+        display: none;
+    }
+    .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .list>li {
+        display: none;
+    }
+    .logo_end .logo_end_fon .overlay1 .logo_end1 .logo_first>li .logo_end_photo {
+        padding-top: 70px;
+        width: 150px;
+        height: 120px;
+        margin-left: 75px;
+    }
+    
+    .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1 .logo_first>li>p {
+        width: 100%;
+        color: #fff;
+        text-align: left;
+    }
+    .logo_end .logo_end_fon .overlay1 .wrapper .logo_first>li .logo_end_image>li>img {
+        height: 45px;
+        width: 45px;
+        padding-right: 7px;
+        margin-left: 10px;
+    }
+    
 }
