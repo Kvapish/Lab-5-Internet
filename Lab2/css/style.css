@@ -59,12 +59,13 @@ p {
     width: 17px;
     padding: 8px;
 }
-.page-header .wrapper .menu .mobile>a{
+
+.page-header .wrapper .menu .mobile>a {
     display: inline-block;
     color: #fff;
     padding-top: 18px;
     padding-bottom: 18px;
-    
+
 }
 
 .page-header .wrapper .menu .menu-item>a {
@@ -75,6 +76,7 @@ p {
     padding-right: 20px;
     padding-bottom: 18px;
 }
+
 .page-header .wrapper .menu .mobile>a {
     display: inline-block;
     color: #fff;
@@ -82,6 +84,7 @@ p {
     padding-bottom: 18px;
     display: none;
 }
+
 .page-header .wrapper .menu .mobile1>a {
     display: inline-block;
     color: #fff;
@@ -109,19 +112,22 @@ p {
     display: flex;
 }
 
-.page-content .block .wrapper .text .element  {
+.page-content .block .wrapper .text .element {
     padding-top: 105px;
     display: flex;
 }
-.page-content .block .wrapper .mobile{
+
+.page-content .block .wrapper .mobile {
     padding-top: 105px;
 }
+
 .page-content .block .wrapper .mobile .mobile1 {
     font-weight: bold;
     font-size: 20px;
     display: none;
 }
-.page-content .block .wrapper .text .element > p > a {
+
+.page-content .block .wrapper .text .element>p>a {
     font-size: 14px;
     padding-left: 44px;
     font-weight: bold;
@@ -492,7 +498,8 @@ p {
 .latest .wrapper .content3 .content_image3 .adm_calendar>ul>li .admin>ul>li {
     display: flex;
 }
-.latest .wrapper .content3 .content_image3 .adm_calendar>ul>li .admin{
+
+.latest .wrapper .content3 .content_image3 .adm_calendar>ul>li .admin {
     display: inline-block;
 }
 
@@ -508,7 +515,7 @@ p {
 .latest .wrapper .content3 .content_image3 .adm_calendar>ul>li .admin>ul>li>h2 {
     color: rgb(33, 175, 43);
     padding-left: 10px;
-    
+
 }
 
 .latest .wrapper .content3 .content_image3 .adm_calendar .admin {
@@ -585,10 +592,10 @@ p {
     width: 60px;
 }
 
-.testimonials   {
+.testimonials {
     padding-top: 70px;
     width: 100%;
-    
+
 }
 
 .testimonials .testimonials_fon {
@@ -632,7 +639,7 @@ p {
     padding-left: 22px;
     color: rgb(255, 255, 255);
     font-size: 17px;
-   
+
 }
 
 .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame1 .text_fon>h2 {
@@ -640,7 +647,7 @@ p {
     color: rgb(255, 255, 255);
     padding-top: 10px;
     font-size: 13px;
-    
+
 }
 
 .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame1 .text_fon>h3 {
@@ -649,7 +656,7 @@ p {
     padding-top: 10px;
     font-size: 13px;
     padding-right: 30px;
-    
+
 }
 
 .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame1 .img_experienced1 {
@@ -708,7 +715,7 @@ p {
     padding-top: 40px;
     display: flex;
     width: 250px;
-    margin-left:362px;
+    margin-left: 362px;
 }
 
 .testimonials .testimonials_fon .overlay1 .wrapper .underline4 {
@@ -948,6 +955,7 @@ p {
     padding-left: 100px;
     display: inline-block;
 }
+
 .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .mobile {
     display: none;
 }
