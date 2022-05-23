@@ -388,37 +388,53 @@
 
     }
 
+    .testimonials .testimonials_text>h1 {
+        padding-top: 70px;
+        text-align: center;
+        font-weight: bold;
+        font-size: 24px;
+        color: #fff;
+        padding-bottom: 30px;
+    }
+
+    .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 {
+        display: block;
+    }
+
+
     .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame1 .img_experienced1 {
         padding-top: 35px;
-        width: 63px;
-        height: 60px;
+        width: 70px;
+        height: 70px;
     }
 
     .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame2 .img_experienced2 {
         padding-top: 35px;
-        width: 63px;
-        height: 60px;
-
+        width: 70px;
+        height: 70px;
+        display: block;
     }
 
     .testimonials .testimonials_fon {
         position: relative;
         width: 100%;
-        height: 420px;
+        height: 620px;
     }
 
     .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame1 {
         border: 2px rgb(120, 120, 120) solid;
-        max-width: 47%;
-        margin-bottom: 10px;
-        max-height: 130px;
+        max-width: 70%;
+        margin-bottom: 20px;
+        max-height: 170px;
+        margin-left: 15%;
     }
 
     .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame2 {
         border: 2px rgb(120, 120, 120) solid;
-        max-width: 47%;
+        max-width: 70%;
         margin-bottom: 10px;
-        max-height: 130px;
+        max-height: 170px;
+        margin-left: 15%;
     }
 
     .testimonials .testimonials_fon .overlay1 .wrapper .line {
@@ -430,46 +446,49 @@
 
     .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame1 .text_fon>h1 {
         padding-top: 35px;
-
         color: rgb(255, 255, 255);
-        font-size: 10px;
-
+        font-size: 12px;
     }
 
     .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame1 .text_fon>h2 {
         padding-left: 10px;
         color: rgb(255, 255, 255);
         padding-top: 10px;
-        font-size: 8px;
-
+        font-size: 10px;
     }
 
 
     .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame1 .text_fon>h3 {
-        display: none;
+        padding-left: 10px;
+        color: rgb(255, 255, 255);
+        padding-top: 10px;
+        font-size: 10px;
+        max-width: 118px;
 
     }
 
     .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame2 .text_fon1>h4 {
         padding-top: 35px;
-        font-size: bold;
         color: rgb(255, 255, 255);
-        font-size: 10px
+        font-size: 12px;
     }
+
 
     .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame2 .text_fon1>h5 {
         color: rgb(255, 255, 255);
         padding-top: 10px;
-        font-size: 8px;
-
+        font-size: 10px;
     }
 
     .testimonials .testimonials_fon .overlay1 .wrapper .frame_list1 .frame2 .text_fon1>h6 {
-        display: none;
+        color: rgb(255, 255, 255);
+        padding-top: 10px;
+        font-size: 10px;
+        max-width: 118px;
     }
 
     .testimonials .testimonials_fon .overlay1 .wrapper .line {
-        padding-top: 40px;
+        padding-top: 10px;
         display: flex;
         width: 125px;
         margin-left: 30%;
@@ -501,13 +520,23 @@
         background-color: rgb(76, 168, 76);
         text-align: center;
     }
+    .logo_end .logo_end_fon>img {
+        width: 100%;
+        height: 600px;
+    
+    }
 
+    .logo_end .logo_end_fon .overlay1 .logo_end1>li {
+        display: block;
+    }
     .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .contact_us>li>p>a {
-        display: none;
+        display: block;
     }
 
     .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .contact_us>li {
-        display: none;
+        display: block;
+        padding-left: 0px;
+        padding-top: 20px;
     }
 
     .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .company>li {
@@ -524,7 +553,11 @@
         height: 120px;
         margin-left: 75px;
     }
-
+    .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .contact_us>li .contact_us1>li>h5>a {
+        font-size: 13px;
+        color: #fff;
+        margin-left: 20px;
+    }
     .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1 .logo_first>li>p {
         width: 100%;
         color: #fff;
