@@ -389,7 +389,7 @@
     }
 
     .testimonials .testimonials_text>h1 {
-        padding-top: 70px;
+        padding-top: 55px;
         text-align: center;
         font-weight: bold;
         font-size: 24px;
@@ -425,7 +425,7 @@
         border: 2px rgb(120, 120, 120) solid;
         max-width: 70%;
         margin-bottom: 20px;
-        max-height: 170px;
+        max-height: 185px;
         margin-left: 15%;
     }
 
@@ -433,7 +433,7 @@
         border: 2px rgb(120, 120, 120) solid;
         max-width: 70%;
         margin-bottom: 10px;
-        max-height: 170px;
+        max-height: 185px;
         margin-left: 15%;
     }
 
@@ -520,15 +520,17 @@
         background-color: rgb(76, 168, 76);
         text-align: center;
     }
+
     .logo_end .logo_end_fon>img {
         width: 100%;
         height: 600px;
-    
+
     }
 
     .logo_end .logo_end_fon .overlay1 .logo_end1>li {
         display: block;
     }
+
     .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .contact_us>li>p>a {
         display: block;
     }
@@ -553,11 +555,13 @@
         height: 120px;
         margin-left: 75px;
     }
+
     .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .contact_us>li .contact_us1>li>h5>a {
         font-size: 13px;
         color: #fff;
         margin-left: 20px;
     }
+
     .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1 .logo_first>li>p {
         width: 100%;
         color: #fff;
