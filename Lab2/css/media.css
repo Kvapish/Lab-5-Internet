@@ -523,7 +523,7 @@
 
     .logo_end .logo_end_fon>img {
         width: 100%;
-        height: 600px;
+        height: 1000px;
 
     }
 
@@ -542,11 +542,18 @@
     }
 
     .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .company>li {
-        display: none;
+        display: block;
+        padding-top: 20px;
+        padding-left: 0px;
     }
 
     .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .list>li {
-        display: none;
+        display: block;
+    }
+
+    .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .list>li .company_3 {
+        padding-top: 20px;
+        padding-left: 0px;
     }
 
     .logo_end .logo_end_fon .overlay1 .logo_end1 .logo_first>li .logo_end_photo {
@@ -573,6 +580,24 @@
         width: 45px;
         padding-right: 7px;
         margin-left: 10px;
+    }
+
+    .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .gallery>li {
+        display: block;
+        padding-top: 20px;
+        padding-left: 0px;
+        max-width: 200px;
+
+    }
+
+    .logo_end .logo_end_fon .overlay1 .wrapper .logo_end1>li .gallery>li .gallery1>img {
+        height: 50px;
+        width: 50px;
+        padding: 10px 2px;
+    }
+
+    .logo_end .logo_end_fon .overlay1 .final_part {
+        margin-top: 20px;
     }
 
 }
